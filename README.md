@@ -24,5 +24,12 @@ credentials = {
         }
 
 gn = Gerencianet(credentials)
+```
 
-Para pobter as credenciais de acesso à API, realize seu cadastro no site da [GerenciaNet](http://gerencianet.com.br/) e acesse a área de API para criar uma aplicação.
+Para obter as credenciais de acesso à API:
+  - Realize seu cadastro no site da [GerenciaNet](http://gerencianet.com.br/);
+  - Acesse a área de API para criar uma aplicação:
+  ![image](https://user-images.githubusercontent.com/67582983/143180542-4952e6c8-82dc-49f2-8d60-842ae6d54274.png)
+  - Crie uma nova aplicação para utilizar a API:
+  ![image](https://user-images.githubusercontent.com/67582983/143180801-9a2386b1-5cf0-4c9b-9c9e-e893e92f78a6.png)
+
