@@ -39,12 +39,12 @@ Para obter as credenciais de acesso à API:
   
   ![image](https://user-images.githubusercontent.com/67582983/143181386-cfc305ba-1760-4b6f-abf9-8eadce8c1db2.png)
 
-# Telas
-- 1: Cadastro de cobrança:
+## Telas
+- 1: Formulário do cadastro de cobrança:
 
 ![image](https://user-images.githubusercontent.com/67582983/143182908-27df9e42-e7c5-422e-9a86-fb2edcdbc971.png)
 
-- 2: Cobrança cadastrada:
+- 2: Exibição de cobranças cadastradas:
 
 ![image](https://user-images.githubusercontent.com/67582983/143182966-f727e3ee-f572-425e-aa15-c6c79a7462dd.png)
 
