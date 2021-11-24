@@ -34,11 +34,12 @@ Para obter as credenciais de acesso à API:
 
   ![image](https://user-images.githubusercontent.com/67582983/143181751-6cf6c9f0-8e69-4d7b-a6a2-94322c621a8e.png)
 
-  #
+  
   - Crie uma nova aplicação para utilizar a API:
   
   ![image](https://user-images.githubusercontent.com/67582983/143181386-cfc305ba-1760-4b6f-abf9-8eadce8c1db2.png)
 
+#
 ## Front-end:
 - 1. Formulário do cadastro de cobrança:
 
