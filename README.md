@@ -6,7 +6,7 @@
 App de cobrança de pagamentos.
 
 ## Sobre
-O intuito deste projeto é desenvolver uma aplicação de cobrança de pagamentos utilizando a plataforma GerenciaNet.
+O intuito deste projeto é desenvolver uma aplicação de cobrança de pagamentos de boletos, utilizando a plataforma GerenciaNet.
 
 ## Instalação
 ```bash
