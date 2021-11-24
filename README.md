@@ -1,7 +1,7 @@
 <img align="left" width="600" height="200" src="https://gerencianet.com.br/wp-content/themes/Gerencianet/assets/images/portal-da-marca/versoes-da-marca/horizontal/h-p-positivo.png">
 
-## GerenciaNet API
+# GerenciaNet API
 App de cobrança de pagamentos.
 
-## Sobre
+# Sobre
 O intuito deste projeto é criar uma aplicação de cobrança de pagamentos utilizando a plataforma GerenciaNet.
