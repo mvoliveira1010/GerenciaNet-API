@@ -13,7 +13,7 @@ O intuito deste projeto é desenvolver uma aplicação de cobrança de pagamento
 pip install gerencianet
 ```
 
-# Usage
+# Uso
 ```python
 from gerencianet import Gerencianet
 
@@ -26,6 +26,8 @@ credentials = {
 gn = Gerencianet(credentials)
 ```
 
+# Credenciais
+
 Para obter as credenciais de acesso à API:
   - Realize seu cadastro no site da [GerenciaNet](http://gerencianet.com.br/);
   - Acesse a área de API para criar uma aplicação:
@@ -36,4 +38,11 @@ Para obter as credenciais de acesso à API:
   - Crie uma nova aplicação para utilizar a API:
   
   ![image](https://user-images.githubusercontent.com/67582983/143181386-cfc305ba-1760-4b6f-abf9-8eadce8c1db2.png)
+
+# Telas
+- 1: Cadastro de cobrança:
+![image](https://user-images.githubusercontent.com/67582983/143182908-27df9e42-e7c5-422e-9a86-fb2edcdbc971.png)
+
+- 2: Cobrança cadastrada:
+![image](https://user-images.githubusercontent.com/67582983/143182966-f727e3ee-f572-425e-aa15-c6c79a7462dd.png)
 
