@@ -6,4 +6,4 @@
 App de cobrança de pagamentos.
 
 # Sobre
-O intuito deste projeto é criar uma aplicação de cobrança de pagamentos utilizando a plataforma GerenciaNet.
+O intuito deste projeto é desenvolver uma aplicação de cobrança de pagamentos utilizando a plataforma GerenciaNet.
