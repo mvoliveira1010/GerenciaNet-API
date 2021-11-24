@@ -29,8 +29,11 @@ gn = Gerencianet(credentials)
 Para obter as credenciais de acesso à API:
   - Realize seu cadastro no site da [GerenciaNet](http://gerencianet.com.br/);
   - Acesse a área de API para criar uma aplicação:
-  ![image](https://user-images.githubusercontent.com/67582983/143180542-4952e6c8-82dc-49f2-8d60-842ae6d54274.png)
+
+  ![image](https://user-images.githubusercontent.com/67582983/143181751-6cf6c9f0-8e69-4d7b-a6a2-94322c621a8e.png)
+
   #
   - Crie uma nova aplicação para utilizar a API:
+  
   ![image](https://user-images.githubusercontent.com/67582983/143181386-cfc305ba-1760-4b6f-abf9-8eadce8c1db2.png)
 
