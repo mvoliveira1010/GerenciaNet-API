@@ -5,15 +5,15 @@
 # GerenciaNet API
 App de cobrança de pagamentos.
 
-# Sobre
+## Sobre
 O intuito deste projeto é desenvolver uma aplicação de cobrança de pagamentos utilizando a plataforma GerenciaNet.
 
-# Instalação
+## Instalação
 ```bash
 pip install gerencianet
 ```
 
-# Uso
+## Uso
 ```python
 from gerencianet import Gerencianet
 
@@ -26,7 +26,7 @@ credentials = {
 gn = Gerencianet(credentials)
 ```
 
-# Credenciais
+## Credenciais
 
 Para obter as credenciais de acesso à API:
   - Realize seu cadastro no site da [GerenciaNet](http://gerencianet.com.br/);
@@ -41,8 +41,10 @@ Para obter as credenciais de acesso à API:
 
 # Telas
 - 1: Cadastro de cobrança:
+
 ![image](https://user-images.githubusercontent.com/67582983/143182908-27df9e42-e7c5-422e-9a86-fb2edcdbc971.png)
 
 - 2: Cobrança cadastrada:
+
 ![image](https://user-images.githubusercontent.com/67582983/143182966-f727e3ee-f572-425e-aa15-c6c79a7462dd.png)
 
