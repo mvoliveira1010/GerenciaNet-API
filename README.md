@@ -1,4 +1,4 @@
-<a href="url"><img src="https://gerencianet.com.br/wp-content/themes/Gerencianet/assets/images/portal-da-marca/versoes-da-marca/horizontal/h-p-positivo.png" align="left" height="50%" width="50%" ></a>
+<a href="url"><img src="https://gerencianet.com.br/wp-content/themes/Gerencianet/assets/images/portal-da-marca/versoes-da-marca/horizontal/h-p-positivo.png" align="left" height="100" width="200" ></a>
 <br>
 ## GerenciaNet API
 App de cobrança de pagamentos.
